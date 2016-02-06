@@ -1,3 +1,6 @@
 body {background-color: #000000; color: #CC0099; }
+body {font-family:  Georgia, "Times New Roman", serif; }
 h1 {background-color: #33FF00; color: #990000}
+h1, h2 {font-family: "Courier New", monospace; }
 #new { background-color: #FFFF00; color: #000000; }
+ol {list-style:  square; }

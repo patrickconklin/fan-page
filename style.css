@@ -1,3 +1,6 @@
 body {background-color: #CCFFFF; color: #000066; }
+body {font-family: Verdana, Arial, sans-serif; }
 h1 {background-color: #B80000; color: #FFFFFF}
+h1, h2 {font-family: "Lucida Handwriting", cursive; }
 #new { background-color: #CC0099; color: #FFFFFF; }
+ol {list-style:  disc; }
