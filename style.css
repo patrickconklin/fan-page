@@ -1,6 +1,13 @@
-body {background-color: #CCFFFF; color: #000066; }
-body {font-family: Verdana, Arial, sans-serif; }
-h1 {background-color: #B80000; color: #FFFFFF}
-h1, h2 {font-family: "Lucida Handwriting", cursive; }
-#new { background-color: #CC0099; color: #FFFFFF; }
-ol {list-style:  disc; }
+body {background-color: #CCFFFF; color: #000066; font-family: Verdana, Arial, sans-serif; margin-left: auto; margin-right: auto; }
+h1 {font-family:  "lucida Handwriting", cursive; background-color: #B80000; color: #FFFFFF; text-align: center; margin-left: auto; margin-right: auto; padding-left: 60ps; border-top-left-radius: 90px; border-top-right-radius: 90px; border-bottom-left-radius: 90px; border-bottom-right-radius: 90px;}
+h2, h3 {font-family: "Lucida Handwriting", cursive; margin-left: auto; margin-right: auto;}
+#new {background-color: #CC0099; color: #FFFFFF; margin-left: auto; margin-right: auto;}
+ol {list-style:  disc; margin-left: auto; margin-right: auto''}
+h3 {text-transform: uppercase; margin-left: auto; margin-right: auto;}
+p {text-indent: 5em; }
+#wrapper {width: 80%; margin-left: auto; margin-right: auto; background-color: #EAEAEA;}
+nav {float: left; width: 150px; padding: 10px;}
+main {margin-left: 165px;}
+footer {margin-left: 165px;}
+nav ul {list-style-type: none; padding: 10px;}
+nav a {text-decoration: none; padding: 10px; font-weight: bold;}
